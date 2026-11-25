@@ -1,0 +1,12 @@
+com\mycompany\cti_mfc\MalwareService$ValidationException.class
+com\mycompany\cti_mfc\DashboardPanel.class
+com\mycompany\cti_mfc\MalwareClassifier$StaticClassifier.class
+com\mycompany\cti_mfc\MalwareClassifier$Classifier.class
+com\mycompany\cti_mfc\MalwareRecord.class
+com\mycompany\cti_mfc\MalwareService.class
+com\mycompany\cti_mfc\CTI_MFC.class
+com\mycompany\cti_mfc\MalwareClassifier$BaseCentroidClassifier.class
+com\mycompany\cti_mfc\MalwareDAO.class
+com\mycompany\cti_mfc\MalwareClassifier$BehavioralClassifier.class
+com\mycompany\cti_mfc\MalwareClassifier.class
+com\mycompany\cti_mfc\CTI_MFC$1.class
